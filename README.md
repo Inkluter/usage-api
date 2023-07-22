@@ -4,6 +4,6 @@ or
 ### `npm install`
 
 Run application
-### `npm start`
+### `node indexjs`
 
 Server should run in [http://localhost:3001](http://localhost:3001)
